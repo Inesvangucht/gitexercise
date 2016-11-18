@@ -1,5 +1,9 @@
 # Spaghetti Bolognese
 
+## Combines with
+
+This recipe combines very well with "Jalapeno Poppers".
+
 ## Ingredients
 
 - 1 tbsp olive oil
